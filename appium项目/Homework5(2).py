@@ -5,6 +5,7 @@ import traceback
 
 from appium import webdriver
 
+# 测试一下
 try:
     desired_caps = {
         "platformName": "Android",
