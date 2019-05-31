@@ -8,6 +8,7 @@ from appium import webdriver
 # 测试一下
 try:
     # speak
+
     desired_caps = {
         "platformName": "Android",
         "platformVersion": "7.1",
