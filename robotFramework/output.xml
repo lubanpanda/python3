@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 3.1.1 (Python 3.7.1 on win32)" generated="20190516 09:51:03.512" rpa="false">
+    <suite id="s1" name="Homework4" source="D:\python项目\robotFramework\homework4.robot">
+        <test id="s1-t1" name="测试用例">
+            <kw name="deleteAllCourse" library="rc">
+                <kw name="login" library="rc">
+                    <arguments>
+                        <arg>auto</arg>
+                        <arg>sdfsdfsdf</arg>
+                    </arguments>
+                    <kw name="Open Browser" library="SeleniumLibrary">
+                        <doc>Opens a new browser instance to the given ``url``.</doc>
+                        <arguments>
+                            <arg>http://localhost/mgr/login/login.html</arg>
+                            <arg>chrome</arg>
+                        </arguments>
+                        <msg timestamp="20190516 09:51:03.679" level="INFO">Opening browser 'chrome' to base url
+                            'http://localhost/mgr/login/login.html'.
+                        </msg>
+                        <status status="PASS" starttime="20190516 09:51:03.679"
+                                endtime="20190516 09:51:06.318"></status>
+                    </kw>
+                    <kw name="Set Selenium Implicit Wait" library="SeleniumLibrary">
+                        <doc>Sets the implicit wait value used by Selenium.</doc>
+                        <arguments>
+                            <arg>5</arg>
+                        </arguments>
+                        <status status="PASS" starttime="20190516 09:51:06.319"
+                                endtime="20190516 09:51:06.320"></status>
+                    </kw>
+                    <kw name="Input Text" library="SeleniumLibrary">
+                        <doc>Types the given ``text`` into text field identified by ``locator``.</doc>
+                        <arguments>
+                            <arg>id=username</arg>
+                            <arg>${username}</arg>
+                        </arguments>
+                        <msg timestamp="20190516 09:51:06.321" level="INFO">Typing text 'auto' into text field
+                            'id=username'.
+                        </msg>
+                        <status status="PASS" starttime="20190516 09:51:06.321"
+                                endtime="20190516 09:51:06.432"></status>
+                    </kw>
+                    <kw name="Input Text" library="SeleniumLibrary">
+                        <doc>Types the given ``text`` into text field identified by ``locator``.</doc>
+                        <arguments>
+                            <arg>id=password</arg>
+                            <arg>${password}</arg>
+                        </arguments>
+                        <msg timestamp="20190516 09:51:06.432" level="INFO">Typing text 'sdfsdfsdf' into text field
+                            'id=password'.
+                        </msg>
+                        <status status="PASS" starttime="20190516 09:51:06.432"
+                                endtime="20190516 09:51:06.515"></status>
+                    </kw>
+                    <kw name="Click Element" library="SeleniumLibrary">
+                        <doc>Click element identified by ``locator``.</doc>
+                        <arguments>
+                            <arg>css=.btn-success</arg>
+                        </arguments>
+                        <msg timestamp="20190516 09:51:06.516" level="INFO">Clicking element 'css=.btn-success'.</msg>
+                        <status status="PASS" starttime="20190516 09:51:06.516"
+                                endtime="20190516 09:51:06.568"></status>
+                    </kw>
+                    <status status="PASS" starttime="20190516 09:51:03.679" endtime="20190516 09:51:06.568"></status>
+                </kw>
+                <kw name="Set Selenium Implicit Wait" library="SeleniumLibrary">
+                    <doc>Sets the implicit wait value used by Selenium.</doc>
+                    <arguments>
+                        <arg>2</arg>
+                    </arguments>
+                    <status status="PASS" starttime="20190516 09:51:06.568" endtime="20190516 09:51:06.569"></status>
+                </kw>
+                <kw name="${i} IN [  ]" type="for">
+                    <msg timestamp="20190516 09:51:06.569" level="FAIL">FOR loop has no loop values.</msg>
+                    <status status="FAIL" starttime="20190516 09:51:06.569" endtime="20190516 09:51:06.569"></status>
+                </kw>
+                <status status="FAIL" starttime="20190516 09:51:03.678" endtime="20190516 09:51:06.569"></status>
+            </kw>
+            <status status="FAIL" starttime="20190516 09:51:03.677" endtime="20190516 09:51:06.570" critical="yes">FOR
+                loop has no loop values.
+            </status>
+        </test>
+        <status status="FAIL" starttime="20190516 09:51:03.514" endtime="20190516 09:51:06.572"></status>
+    </suite>
+    <statistics>
+        <total>
+            <stat pass="0" fail="1">Critical Tests</stat>
+            <stat pass="0" fail="1">All Tests</stat>
+        </total>
+        <tag>
+        </tag>
+        <suite>
+            <stat pass="0" fail="1" id="s1" name="Homework4">Homework4</stat>
+        </suite>
+    </statistics>
+    <errors>
+    </errors>
+</robot>
