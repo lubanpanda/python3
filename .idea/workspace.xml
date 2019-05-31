@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b7754fef-4876-4daf-ace4-afb888b26f1b" name="Default Changelist" comment="" />
+    <list default="true" id="b7754fef-4876-4daf-ace4-afb888b26f1b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +54,7 @@
         <entry file="file://$PROJECT_DIR$/project/cfg.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="10" selection-start-column="9" selection-end-column="29" />
+              <caret column="12" selection-start-column="11" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -70,7 +72,10 @@
         <entry file="file://$PROJECT_DIR$/appium项目/Homework5(2).py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="140">
-              <caret line="9" column="36" lean-forward="true" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+              <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+              <folding>
+                <element signature="e#46#57#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -79,10 +84,7 @@
         <entry file="file://$PROJECT_DIR$/project/pylib/SchoolClassLib.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1480">
-              <caret line="77" column="33" selection-start-line="77" selection-start-column="33" selection-end-line="77" selection-end-column="33" />
-              <folding>
-                <element signature="e#46#61#0" expanded="true" />
-              </folding>
+              <caret line="79" column="33" selection-start-line="79" selection-start-column="33" selection-end-line="79" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -127,6 +129,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -148,7 +153,6 @@
         <option value="$PROJECT_DIR$/appium项目/Homework4.py" />
         <option value="$PROJECT_DIR$/../自动化学习视频/appium课堂代码/samples/lesson6/webview1.py" />
         <option value="$PROJECT_DIR$/appium项目/Homework5.py" />
-        <option value="$PROJECT_DIR$/appium项目/Homework5(2).py" />
         <option value="$PROJECT_DIR$/接口测试/Homework5.py" />
         <option value="$PROJECT_DIR$/接口测试/login.html" />
         <option value="$PROJECT_DIR$/接口测试/login.py" />
@@ -181,6 +185,7 @@
         <option value="$PROJECT_DIR$/project/testcases/d-空白数据/班级管理/添加班级.robot" />
         <option value="$PROJECT_DIR$/project/pylib/SchoolClassLib.py" />
         <option value="$PROJECT_DIR$/project/testcases/d-空白数据/d-1班/班级管理.robot" />
+        <option value="$PROJECT_DIR$/appium项目/Homework5(2).py" />
       </list>
     </option>
   </component>
@@ -190,6 +195,7 @@
     <option name="width" value="1269" />
     <option name="height" value="939" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -316,7 +322,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../安装包/spj01" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="settings.editor.splitter.proportion" value="0.22134387" />
   </component>
   <component name="RecentsManager">
@@ -504,17 +510,25 @@
       <workItem from="1557893204228" duration="1033000" />
       <workItem from="1557902525790" duration="26109000" />
       <workItem from="1558329499477" duration="1266000" />
-      <workItem from="1559307091589" duration="588000" />
+      <workItem from="1559307091589" duration="1226000" />
     </task>
+    <task id="LOCAL-00001" summary="学习代码">
+      <created>1559308048250</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1559308048251</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="206285000" />
+    <option name="totallyTimeSpent" value="206923000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1563" height="855" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49865952" visible="true" weight="0.14950167" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49865952" visible="true" weight="0.14950167" />
       <window_info id="Structure" order="1" sideWeight="0.5013405" side_tool="true" weight="0.34343433" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -525,9 +539,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50033224" side_tool="true" weight="0.18428572" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="10" sideWeight="0.50033224" side_tool="true" visible="true" weight="0.18311875" />
       <window_info anchor="bottom" id="Python Console" order="11" weight="0.32888147" />
       <window_info anchor="bottom" id="Terminal" order="12" weight="0.28857142" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -563,17 +577,23 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="学习代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="学习代码" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/selenium项目/Homework4 51job.py</url>
-          <line>39</line>
+          <line>41</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/selenium项目/Homework4 51job.py</url>
-          <line>42</line>
+          <line>44</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
@@ -583,17 +603,17 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/接口测试/Homework7.py</url>
-          <line>19</line>
+          <line>20</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/接口测试/Homework7.py</url>
-          <line>40</line>
+          <line>41</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/robotFramework/DeleteCourse.py</url>
-          <line>15</line>
+          <line>18</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
@@ -955,7 +975,7 @@
     <entry file="file://$PROJECT_DIR$/project/cfg.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="10" selection-start-column="9" selection-end-column="29" />
+          <caret column="12" selection-start-column="11" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -969,10 +989,7 @@
     <entry file="file://$PROJECT_DIR$/project/pylib/SchoolClassLib.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1480">
-          <caret line="77" column="33" selection-start-line="77" selection-start-column="33" selection-end-line="77" selection-end-column="33" />
-          <folding>
-            <element signature="e#46#61#0" expanded="true" />
-          </folding>
+          <caret line="79" column="33" selection-start-line="79" selection-start-column="33" selection-end-line="79" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -1003,7 +1020,10 @@
     <entry file="file://$PROJECT_DIR$/appium项目/Homework5(2).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
-          <caret line="9" column="36" lean-forward="true" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+          <folding>
+            <element signature="e#46#57#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
