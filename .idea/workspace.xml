@@ -69,8 +69,13 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/appium项目/Homework5(2).py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
             <state relative-caret-position="40">
               <caret line="2" selection-start-line="2" selection-end-line="2" />
+=======
+            <state relative-caret-position="80">
+              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+>>>>>>> Stashed changes
               <folding>
                 <element signature="e#46#57#0" expanded="true" />
               </folding>
@@ -510,7 +515,7 @@
       <workItem from="1557902525790" duration="26109000" />
       <workItem from="1558329499477" duration="1266000" />
       <workItem from="1559307091589" duration="1226000" />
-      <workItem from="1559310319646" duration="25000" />
+      <workItem from="1559310319646" duration="857000" />
     </task>
     <task id="LOCAL-00001" summary="学习代码">
       <created>1559308048250</created>
@@ -519,16 +524,38 @@
       <option name="project" value="LOCAL" />
       <updated>1559308048251</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="学习代码1">
+      <created>1559310377710</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1559310377710</updated>
+    </task>
+    <task id="LOCAL-00003" summary="自动化学习">
+      <created>1559310532206</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1559310532206</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< Updated upstream
     <option name="totallyTimeSpent" value="206973000" />
+=======
+    <option name="totallyTimeSpent" value="207780000" />
+>>>>>>> Stashed changes
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1563" height="855" extended-state="6" />
     <layout>
+<<<<<<< Updated upstream
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49865952" visible="true" weight="0.14950167" />
+=======
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49865952" visible="true" weight="0.15185784" />
+>>>>>>> Stashed changes
       <window_info id="Structure" order="1" sideWeight="0.5013405" side_tool="true" weight="0.34343433" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -539,9 +566,13 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+<<<<<<< Updated upstream
       <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" />
+=======
+      <window_info active="true" anchor="bottom" id="Version Control" order="8" sideWeight="0.49919224" visible="true" weight="0.32930514" />
+>>>>>>> Stashed changes
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50033224" side_tool="true" visible="true" weight="0.18277946" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50080776" side_tool="true" weight="0.32930514" />
       <window_info anchor="bottom" id="Python Console" order="11" weight="0.32888147" />
       <window_info anchor="bottom" id="Terminal" order="12" weight="0.28857142" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -602,6 +633,7 @@
         </entry>
       </map>
     </option>
+<<<<<<< Updated upstream
     <option name="RECENT_FILTERS">
       <map>
         <entry key="Branch">
@@ -622,6 +654,14 @@
     <MESSAGE value="学习代码3" />
     <MESSAGE value="学习代码4" />
     <option name="LAST_COMMIT_MESSAGE" value="学习代码4" />
+=======
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="学习代码" />
+    <MESSAGE value="学习代码1" />
+    <MESSAGE value="自动化学习" />
+    <option name="LAST_COMMIT_MESSAGE" value="自动化学习" />
+>>>>>>> Stashed changes
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -956,8 +996,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/appium项目/Homework5(2).py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="40">
           <caret line="2" selection-start-line="2" selection-end-line="2" />
+=======
+        <state relative-caret-position="80">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+>>>>>>> Stashed changes
           <folding>
             <element signature="e#46#57#0" expanded="true" />
           </folding>
